@@ -23,7 +23,7 @@
     <header class="header"> 
         <nav class="navbar"> 
             <div class="logo"> 
-                <h2 class="logo-heading">Emrit Diyal</h2> 
+                <h2 class="logo-heading">Atharv Dubey</h2> 
             </div> 
             <div class="hamburger" id="hamburger"> 
                 <i class="fas fa-bars hamburger-icon"></i> 
@@ -48,7 +48,7 @@
                     </li> 
                     <li class="menu-list-items"> 
                         <a class="links" href="#services"> 
-                            Services 
+                            Projects
                         </a> 
                     </li> 
                     <li class="menu-list-items"> 
